@@ -1,11 +1,11 @@
 Drosophilia Analysis
-*** README version 1.0 ***
+*** README version 1.1 ***
 -----------------------------------------------------------------------------------
 *** About ***
 
 This library provides the required files and final documentation for an exploration
-of the Drosophilia connectome. The main project, ME(R)_analysis.py, provides images
-and data for the analysis of the medulla region of the Drosophilia connectome.
+of the Drosophila connectome. The main project, ME(R)_analysis.py, provides images
+and data for the analysis of the medulla region of the Drosophila connectome.
 
 
 *** Instructions ***
