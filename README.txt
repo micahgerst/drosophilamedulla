@@ -52,5 +52,5 @@ More information on pandas can be found here:
 https://pandas.pydata.org/docs/
 More information on matplotlib can be found here:
 https://matplotlib.org/stable/index.html
-The Drosophilia melanogaster data can be accessed here: 
-https://neuprint.janelia.org
+The Drosophilia melanogaster data can be downloaded here: 
+https://dvid.io/blog/release-v1.2/#downloads
